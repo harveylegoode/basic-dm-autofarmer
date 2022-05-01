@@ -5,4 +5,4 @@ simple dank memer auto farm i made in an hour
 https://uptimerobot.com/
 
 
-i might continue to update it on https://replit.com/@Harveylegoodie/dank-memer-auto-farm#main.py
+updating it on https://replit.com/@Harveylegoodie/DankMemerAutoFarm-V3#main.py
