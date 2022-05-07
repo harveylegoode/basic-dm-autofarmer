@@ -6,3 +6,6 @@ https://uptimerobot.com/
 
 
 updating it on https://replit.com/@Harveylegoodie/DankMemerAutoFarm-V3#main.py
+
+
+(i was making v4 but i got bored so i reccomened v1 ok bye)
